@@ -1,0 +1,3 @@
+[submodule "order-manager-back"]
+	path = order-manager-back
+	url = https://github.com/hehmdalolkek/order-manager-back.git
