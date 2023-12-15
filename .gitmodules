@@ -1,6 +1,8 @@
 [submodule "order-manager-back"]
 	path = order-manager-back
 	url = https://github.com/hehmdalolkek/order-manager-back.git
+	branch = main
 [submodule "order-manager-front"]
 	path = order-manager-front
 	url = https://github.com/hehmdalolkek/order-manager-front.git
+	branch = main
